@@ -51,3 +51,9 @@ echo 'Hello GitHub' #Bash
 ```Bash
 echo 'Hello GitHub' //Bash
 ```
+
+### 颜色
+```diff
++ this will be highlighted in green
+- this will be highlighted in red
+```
